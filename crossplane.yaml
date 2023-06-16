@@ -16,7 +16,7 @@ metadata:
       Provider](https://marketplace.upbound.io/providers/upbound/provider-gcp).
 spec:
   crossplane:
-    version: ">=v1.7.0-0"
+    version: ">=v1.12.1-0"
   dependsOn:
     - provider: xpkg.upbound.io/upbound/provider-gcp
-      version: ">=v0.27.0"
+      version: ">=v0.33.1"
