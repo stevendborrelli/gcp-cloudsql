@@ -18,5 +18,5 @@ spec:
   crossplane:
     version: ">=v1.12.2-0"
   dependsOn:
-    - provider: xpkg.upbound.io/upbound/provider-gcp-sql
+    - provider: xpkg.upbound.io/upbound/provider-gcp
       version: ">=v0.33.1"
